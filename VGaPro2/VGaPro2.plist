@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/NTHMI9/HD_Tai/releases/download/HAV/VGaPro_2-1.54.71.ipa</string>
+					<string>https://github.com/NTHMI9/HD_Tai/releases/download/1.55.92/2VGaPro.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.supercell.NTH.Pro</string>
 				<key>bundle-version</key>
-				<string>1.54.71</string>
+				<string>1.55.92</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
