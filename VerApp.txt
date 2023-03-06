@@ -1,1 +1,1 @@
-{"Ver":"3.0","Url":"fb.com/hav.hayday","test":"com.nth.menu","Mod":"com.supercell.NTH_MI9.Mod","Pro":"com.supercell.NTH_MI9.Pro","Min":"com.supercell.NTH_MI9.MinShop","Max":"com.supercell.NTH_MI9.MaxShop","CF":"com.supercell.NTH_MI9.CaFe","CF1":"com.supercell.NTH_MI9.CaFe1"}
+{"VerNew":"3.0","VerOld":"2.3","Url":"fb.com/hav.hayday","test":"com.nth.menu","Mod":"com.supercell.NTH_MI9.Mod","Pro":"com.supercell.NTH_MI9.Pro","Min":"com.supercell.NTH_MI9.MinShop","Max":"com.supercell.NTH_MI9.MaxShop","CF":"com.supercell.NTH_MI9.CaFe","CF1":"com.supercell.NTH_MI9.CaFe1"}
